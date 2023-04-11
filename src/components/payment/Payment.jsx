@@ -50,7 +50,7 @@ function Payment() {
         </div>
         <div className="mainContact">
           <div className="contactMain">
-            <div style={{ padding: "9px" }}>
+            <div style={{ padding: "9px", paddingLeft:"14px" }}>
               <img style={{ width: "100%" }} src='icons/img.png' alt="" />
             </div>
             <div className="contactMaindiv">
