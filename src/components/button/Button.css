@@ -1,0 +1,20 @@
+.payment-button {
+    border-radius: 5px;
+    width: 130px;
+    height: 60px;
+    font-weight: 400;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.payment-button-text-field {
+    width: 90px;
+    margin: 0px 10px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
