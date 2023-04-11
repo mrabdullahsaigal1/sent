@@ -218,8 +218,9 @@
     width: 325px;
   }
   .rate {
+    color: #262626;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 30px;
     line-height: 35px;
   }
   .locationdiv {
